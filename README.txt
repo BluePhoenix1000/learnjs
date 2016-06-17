@@ -1,0 +1,1 @@
+This is program is for the first chapter of learning javascript.
