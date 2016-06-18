@@ -35,3 +35,7 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+#Transcompiled folders for es6 to es5
+dist
+public/dist
